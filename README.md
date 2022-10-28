@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I received my B.Sc. degree from School of Computer Science[https://jsj.nwpu.edu.cn/] in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in June 2022. 
+- 🔭 I received my B.Sc. degree from [School of Computer Science](https://jsj.nwpu.edu.cn/) in [Northwestern Polytechnical University](https://www.nwpu.edu.cn/) in June 2022. 
 - 🔭 I'm studying at the [College of Computer Science and Technology](http://www.cs.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/) from 2022, majoring in Computer Vision.
 - 🌱 I’m currently learning something about computer vision and deep learning to prepare myself for my research life.
 - 💬 This is [my blog](https://wutao-cs.github.io/)
