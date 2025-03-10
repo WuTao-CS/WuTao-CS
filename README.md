@@ -1,4 +1,4 @@
-![06722447](https://github.com/user-attachments/assets/9379c153-1ce5-45da-b4df-9357a52f56ad)### Hi there 👋
+### Hi there 👋
 
 <!--
 **WuTao-CS/WuTao-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
